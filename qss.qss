@@ -1,0 +1,76 @@
+QWidget#centralwidget
+{
+    background:rgb(40, 48, 62);
+}
+ProcessDialog
+{
+    background:rgb(40, 48, 62);
+}
+QInputDialog
+{
+    background:rgb(62, 72, 89);
+}
+.QLabel
+{
+    color:#fff;
+    font-size:18px;
+    font-weight:bold;
+}
+QLabel#label_4
+{
+    color:#fff;
+    font-size:12px;
+    font-weight:bold;
+}
+
+QPushButton
+{
+    color:#fff;
+    background:rgb(40, 48, 62);
+    border:1px solid #fff;
+}
+QTableWidget
+{
+    color:#fff;
+    background:rgb(40, 48, 62);
+    border:1px solid #fff;
+}
+QTableView::item
+{
+    color:#fff;
+    background:rgb(40, 48, 62);
+    border:1px solid #fff;
+}
+QTableCornerButton::section
+{
+    color:#fff;
+    background:rgb(40, 48, 62);
+    border:1px solid #fff;
+}
+QTableView::item:selected
+{
+    color:#fff;
+    background:rgb(62, 72, 89);
+    border:1px solid #fff;
+}
+
+QHeaderView::section {
+    color:#fff;
+    background:rgb(40, 48, 62);
+    border:1px solid #fff;
+}
+
+
+QComboBox
+{
+    color:#fff;
+    background:rgb(40, 48, 62);
+    border:1px solid #fff;
+}
+QComboBox QAbstractItemView{
+       background:rgb(40, 48, 62);
+   border:1px solid rgba(228,228,228,1);
+   border-radius:0px 0px 5px 5px;
+       font-size:14px;
+   outline: 0px;  //去虚线
+ }
