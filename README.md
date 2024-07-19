@@ -1,10 +1,10 @@
-## 环境：
-Qt 5.12.5
-Desktop Qt 5.12.5 MinGW 32-bit
-软件效果图：
-![image](https://github.com/user-attachments/assets/e383ddb5-3ceb-416e-9bbe-d15f245757fa)
+# 环境：
+#### Qt 5.12.5
+#### Desktop Qt 5.12.5 MinGW 32-bit
+# 软件效果图：
+![image](https://github.com/user-attachments/assets/e383ddb5-3ceb-416e-9bbe-d15f245757fa#pic_center )
 
-## 介绍：
+# 介绍：
 给大家分享一个窗口控制工具，在网上找了几个，发现不是不好用就是收费的，所有自己花时间开发了这样一个工具
 这个工具在日常工作中，非常实用。
 场景1：如在一个word编辑文件时，需要参考网页或者另一个文件
@@ -21,7 +21,7 @@ windows切换的方式还需要来回点击
 因为C#开发出来以后，效果不是很好，所以又Qt现学现用的开发了Qt版本的
 两个版本代码已开源，想学习的宝子们记得一键三连，源码带走
 最后，软件代码使用了钩子以及windows api来开发的，请不要用于违法行为，如用于开发违法软件，与本人无关哈
-## 感觉有用就打个赏吧：
-![zfbzhb](https://github.com/user-attachments/assets/4900c598-3864-44d5-8c85-5eaa5afe7c9a)
-![zfb](https://github.com/user-attachments/assets/a1b36155-fbc8-4c44-84e0-a612f953b10f)
-![wx](https://github.com/user-attachments/assets/4e2a9aca-3078-474a-9a0d-018b36af6e0a)
+# 感觉有用就打个赏吧：
+![zfbzhb](https://github.com/user-attachments/assets/4900c598-3864-44d5-8c85-5eaa5afe7c9a#pic_center  =180x180)
+![zfb](https://github.com/user-attachments/assets/a1b36155-fbc8-4c44-84e0-a612f953b10f#pic_center  =180x180)
+![wx](https://github.com/user-attachments/assets/4e2a9aca-3078-474a-9a0d-018b36af6e0a#pic_center  =180x180)
