@@ -28,6 +28,7 @@ windows切换的方式还需要来回点击
 两个版本代码已开源，想学习的宝子们记得一键三连，源码带走
 最后，软件代码使用了钩子以及windows api来开发的，请不要用于违法行为，如用于开发违法软件，与本人无关哈
 # 感觉有用就打个赏吧：
-![zfbzhb](https://github.com/user-attachments/assets/4900c598-3864-44d5-8c85-5eaa5afe7c9a#pic_center)
-![zfb](https://github.com/user-attachments/assets/a1b36155-fbc8-4c44-84e0-a612f953b10f#pic_center)
-![wx](https://github.com/user-attachments/assets/4e2a9aca-3078-474a-9a0d-018b36af6e0a#pic_center)
+<img src="https://github.com/user-attachments/assets/4900c598-3864-44d5-8c85-5eaa5afe7c9a" width="200" />
+<img src="https://github.com/user-attachments/assets/a1b36155-fbc8-4c44-84e0-a612f953b10f" width="200" />
+<img src="https://github.com/user-attachments/assets/4e2a9aca-3078-474a-9a0d-018b36af6e0a" width="200" />
+
